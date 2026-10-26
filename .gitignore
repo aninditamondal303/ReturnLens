@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Node / Vite
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+.vite/
+
+# Environment files (never commit secrets)
+.env
+.env.*
+!.env.example
+!frontend/.env.example
+
+# Derived exports (regenerate with python scripts/export_powerbi.py)
+data/powerbi/
+
+# Power BI working files you create locally (commit a .pbix only if you deliberately want to)
+*.pbix.bak
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Temporary verification files
+.verify_tmp/
+
+# Local publishing helper (not part of the project)
+push-to-github.bat

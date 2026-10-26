@@ -1,0 +1,9 @@
+# Keep generated CSVs byte-identical across Windows/macOS/Linux (reproducibility test compares bytes)
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.md text eol=lf
+# Windows batch files must keep CRLF line endings
+*.bat text eol=crlf

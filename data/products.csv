@@ -1,0 +1,184 @@
+product_id,product_name,category,subcategory,unit_cost,selling_price,supplier_id,product_weight,product_status,return_window_days
+P0001,Meher Printed Kurti Set Lite,Women's Fashion,Kurtas & Kurtis,881.2,2299.0,SUP-02,0.7,Active,10
+P0002,Saanjh Georgette Saree Classic,Women's Fashion,Sarees,287.36,699.0,SUP-02,0.6,Active,10
+P0003,Meher Cotton Saree Neo,Women's Fashion,Sarees,277.81,699.0,SUP-03,0.26,Active,10
+P0004,Aaranya Silk Blend Saree Neo,Women's Fashion,Sarees,286.25,699.0,SUP-02,0.55,Active,10
+P0005,Meher Georgette Saree Pro,Women's Fashion,Sarees,233.76,499.0,SUP-01,0.67,Active,10
+P0006,Saanjh Wrap Dress Max,Women's Fashion,Dresses,2123.85,3199.0,SUP-02,0.57,Active,10
+P0007,Aaranya Silk Blend Saree Plus,Women's Fashion,Sarees,1245.09,2799.0,SUP-02,0.43,Active,10
+P0008,Saanjh Silk Blend Saree Essential,Women's Fashion,Sarees,428.16,999.0,SUP-02,0.48,Active,10
+P0009,Aaranya Relaxed Tee Pro,Women's Fashion,Tops & Tees,732.58,1499.0,SUP-02,0.61,Active,10
+P0010,Meher Anarkali Kurta Essential,Women's Fashion,Kurtas & Kurtis,436.58,999.0,SUP-02,0.83,Active,10
+P0011,Saanjh Maxi Dress Lite,Women's Fashion,Dresses,1280.04,2899.0,SUP-03,0.85,Active,10
+P0012,Ivory Loom Anarkali Kurta Signature,Women's Fashion,Kurtas & Kurtis,502.95,1099.0,SUP-02,0.24,Active,10
+P0013,Ivory Loom Relaxed Tee Essential,Women's Fashion,Tops & Tees,555.13,1199.0,SUP-01,0.37,Active,10
+P0014,Saanjh A-Line Dress Max,Women's Fashion,Dresses,952.58,2099.0,SUP-03,0.83,Active,10
+P0015,Aaranya Cotton Saree Neo,Women's Fashion,Sarees,206.77,499.0,SUP-03,0.81,Active,10
+P0016,Ivory Loom Silk Blend Saree Lite,Women's Fashion,Sarees,654.28,1599.0,SUP-03,0.8,Active,10
+P0017,Meher Crop Top Essential,Women's Fashion,Tops & Tees,343.5,699.0,SUP-01,0.75,Active,10
+P0018,Meher Cotton Saree Lite,Women's Fashion,Sarees,874.07,1899.0,SUP-01,0.41,Active,10
+P0019,Northline Crew Neck Tee Max,Men's Fashion,T-Shirts,1111.81,2199.0,SUP-05,0.77,Active,10
+P0020,Urban Tant Graphic Tee Neo,Men's Fashion,T-Shirts,540.36,1299.0,SUP-04,0.62,Active,10
+P0021,Urban Tant Polo T-Shirt Neo,Men's Fashion,T-Shirts,180.87,399.0,SUP-05,0.4,Active,10
+P0022,Northline Nehru Jacket Classic,Men's Fashion,Ethnic Wear,1479.84,3399.0,SUP-04,0.73,Active,10
+P0023,Urban Tant Polo T-Shirt Pro,Men's Fashion,T-Shirts,612.01,1199.0,SUP-05,0.54,Active,10
+P0024,Rangrez Linen Shirt Lite,Men's Fashion,Shirts,308.77,699.0,SUP-05,0.87,Active,10
+P0025,Kaveri Mills Slim Fit Jeans Max,Men's Fashion,Jeans & Trousers,1432.9,3299.0,SUP-04,0.66,Active,10
+P0026,Rangrez Slim Fit Jeans Max,Men's Fashion,Jeans & Trousers,240.27,499.0,SUP-04,0.52,Active,10
+P0027,Northline Nehru Jacket Essential,Men's Fashion,Ethnic Wear,677.9,1399.0,SUP-04,0.67,Active,10
+P0028,Northline Slim Fit Jeans Essential,Men's Fashion,Jeans & Trousers,1090.99,2299.0,SUP-05,0.48,Active,10
+P0029,Rangrez Checked Shirt Max,Men's Fashion,Shirts,316.18,699.0,SUP-05,0.33,Active,10
+P0030,Urban Tant Nehru Jacket Pro,Men's Fashion,Ethnic Wear,576.81,1199.0,SUP-05,0.59,Active,10
+P0031,Kaveri Mills Crew Neck Tee Max,Men's Fashion,T-Shirts,1031.98,2399.0,SUP-04,0.47,Active,10
+P0032,Urban Tant Kurta Pyjama Set Neo,Men's Fashion,Ethnic Wear,338.08,799.0,SUP-04,0.6,Discontinued,10
+P0033,Northline Slim Fit Jeans Plus,Men's Fashion,Jeans & Trousers,1236.93,2999.0,SUP-04,0.82,Active,10
+P0034,Rangrez Checked Shirt Plus,Men's Fashion,Shirts,322.36,699.0,SUP-04,0.72,Discontinued,10
+P0035,Stridewell Chunky Sneakers Neo,Footwear,Sneakers,1900.26,4299.0,SUP-06,1.18,Active,10
+P0036,Paduka & Co Derby Shoes Lite,Footwear,Formal Shoes,1444.61,3299.0,SUP-08,1.05,Active,10
+P0037,Trekko Sports Floaters Pro,Footwear,Sandals & Floaters,1959.47,3999.0,SUP-08,1.34,Active,10
+P0038,Stridewell Chunky Sneakers Plus,Footwear,Sneakers,446.34,899.0,SUP-07,1.36,Active,10
+P0039,Stridewell Loafers Plus,Footwear,Formal Shoes,576.1,1199.0,SUP-07,1.25,Active,10
+P0040,Trekko Sports Floaters Plus,Footwear,Sandals & Floaters,949.77,1799.0,SUP-08,1.2,Active,10
+P0041,Solemate Slip-On Sneakers Lite,Footwear,Sneakers,321.06,699.0,SUP-07,0.69,Active,10
+P0042,Solemate Kolhapuri Chappal Essential,Footwear,Sandals & Floaters,710.2,1399.0,SUP-08,0.73,Active,10
+P0043,Stridewell Leather Sandals Signature,Footwear,Sandals & Floaters,2151.56,4399.0,SUP-08,0.66,Discontinued,10
+P0044,Trekko Sports Floaters Essential,Footwear,Sandals & Floaters,888.46,2099.0,SUP-08,1.4,Active,10
+P0045,Solemate Training Shoes Max,Footwear,Sports Shoes,1546.11,3099.0,SUP-08,1.09,Active,10
+P0046,Paduka & Co Loafers Lite,Footwear,Formal Shoes,1280.89,2699.0,SUP-07,0.8,Active,10
+P0047,Trekko Running Shoes Max,Footwear,Sports Shoes,423.66,899.0,SUP-08,0.63,Active,10
+P0048,Stridewell Chunky Sneakers Classic,Footwear,Sneakers,329.98,699.0,SUP-07,1.4,Active,10
+P0049,Trekko Training Shoes Classic,Footwear,Sports Shoes,366.58,699.0,SUP-08,1.26,Active,10
+P0050,Stridewell Training Shoes Pro,Footwear,Sports Shoes,1821.06,4299.0,SUP-08,1.34,Active,10
+P0051,Paduka & Co Loafers Essential,Footwear,Formal Shoes,1201.29,2499.0,SUP-06,0.74,Active,10
+P0052,Paduka & Co Oxford Shoes Classic,Footwear,Formal Shoes,403.68,799.0,SUP-07,0.61,Active,10
+P0053,Paduka & Co Running Shoes Essential,Footwear,Sports Shoes,452.3,899.0,SUP-06,1.29,Active,10
+P0054,Stridewell Running Shoes Max,Footwear,Sports Shoes,2001.03,4499.0,SUP-08,1.04,Active,10
+P0055,Pulsewave Over-Ear Headphones Plus,Electronics Accessories,Earbuds & Headphones,481.46,699.0,SUP-10,0.47,Active,7
+P0056,Voltix 20000mAh Power Bank Essential,Electronics Accessories,Power Banks,2424.42,3299.0,SUP-09,0.23,Active,7
+P0057,Voltix Wireless Neckband Max,Electronics Accessories,Earbuds & Headphones,1956.23,2699.0,SUP-09,0.37,Active,7
+P0058,Pulsewave 10000mAh Slim Power Bank Neo,Electronics Accessories,Power Banks,2454.88,3299.0,SUP-09,0.43,Active,7
+P0059,Kinetic Labs ANC Earbuds Pro,Electronics Accessories,Earbuds & Headphones,714.92,999.0,SUP-10,0.44,Active,7
+P0060,Sonora 10000mAh Slim Power Bank Plus,Electronics Accessories,Power Banks,936.36,1299.0,SUP-10,0.33,Active,7
+P0061,Kinetic Labs Wireless Neckband Plus,Electronics Accessories,Earbuds & Headphones,2455.32,3299.0,SUP-10,0.45,Active,7
+P0062,Kinetic Labs Over-Ear Headphones Plus,Electronics Accessories,Earbuds & Headphones,1549.48,2299.0,SUP-10,0.36,Active,7
+P0063,Pulsewave Wireless Neckband Plus,Electronics Accessories,Earbuds & Headphones,1450.9,2099.0,SUP-09,0.16,Active,7
+P0064,Kinetic Labs 20000mAh Power Bank Neo,Electronics Accessories,Power Banks,664.05,699.0,SUP-09,0.4,Active,7
+P0065,Kinetic Labs Fitness Smartwatch Max,Electronics Accessories,Smartwatches,4958.33,6899.0,SUP-09,0.53,Active,7
+P0066,Pulsewave ANC Earbuds Pro,Electronics Accessories,Earbuds & Headphones,5209.61,7499.0,SUP-09,0.35,Discontinued,7
+P0067,Sonora Fitness Smartwatch Classic,Electronics Accessories,Smartwatches,509.11,799.0,SUP-10,0.37,Active,7
+P0068,Sonora 20000mAh Power Bank Essential,Electronics Accessories,Power Banks,379.05,399.0,SUP-09,0.48,Active,7
+P0069,Voltix ANC Earbuds Essential,Electronics Accessories,Earbuds & Headphones,2031.31,2999.0,SUP-10,0.35,Active,7
+P0070,Pulsewave 20000mAh Power Bank Signature,Electronics Accessories,Power Banks,470.61,699.0,SUP-10,0.28,Active,7
+P0071,Kinetic Labs Over-Ear Headphones Neo,Electronics Accessories,Earbuds & Headphones,1082.52,1499.0,SUP-09,0.54,Active,7
+P0072,Voltix 65W GaN Charger Max,Electronics Accessories,Chargers & Cables,3704.05,3899.0,SUP-09,0.11,Active,7
+P0073,Aurum Mobile 5G Smartphone 8GB/128GB Pro,Mobiles & Tablets,Smartphones,20909.12,25399.0,SUP-13,0.25,Active,7
+P0074,Zephyr 8-inch Kids Tablet Pro,Mobiles & Tablets,Tablets,8846.95,10099.0,SUP-12,0.28,Active,7
+P0075,Aurum Mobile 10.6-inch Tablet Lite,Mobiles & Tablets,Tablets,18924.88,22199.0,SUP-13,0.39,Active,7
+P0076,Nexora 5G Smartphone 8GB/128GB Pro,Mobiles & Tablets,Smartphones,13895.82,16899.0,SUP-12,0.38,Active,7
+P0077,Aurum Mobile 4G Smartphone 6GB/128GB Plus,Mobiles & Tablets,Smartphones,12556.95,13999.0,SUP-13,0.57,Active,7
+P0078,Aurum Mobile 8-inch Kids Tablet Max,Mobiles & Tablets,Tablets,29049.59,33699.0,SUP-11,0.53,Active,7
+P0079,Zephyr 4G Smartphone 6GB/128GB Essential,Mobiles & Tablets,Smartphones,28800.46,34099.0,SUP-12,0.46,Active,7
+P0080,Aurum Mobile 4G Smartphone 6GB/128GB Signature,Mobiles & Tablets,Smartphones,26409.05,27799.0,SUP-13,0.57,Active,7
+P0081,Zephyr 5G Smartphone 12GB/256GB Plus,Mobiles & Tablets,Smartphones,11208.0,13499.0,SUP-12,0.42,Discontinued,7
+P0082,Nexora 8-inch Kids Tablet Pro,Mobiles & Tablets,Tablets,11339.03,12699.0,SUP-11,0.46,Active,7
+P0083,Aurum Mobile 10.6-inch Tablet Max,Mobiles & Tablets,Tablets,15910.57,17899.0,SUP-11,0.53,Discontinued,7
+P0084,Nexora 5G Smartphone 8GB/128GB Lite,Mobiles & Tablets,Smartphones,26037.23,29099.0,SUP-12,0.52,Active,7
+P0085,Aurum Mobile 4G Smartphone 6GB/128GB Essential,Mobiles & Tablets,Smartphones,29030.41,34599.0,SUP-11,0.26,Active,7
+P0086,Zephyr 8-inch Kids Tablet Plus,Mobiles & Tablets,Tablets,9814.41,11299.0,SUP-12,0.54,Active,7
+P0087,Aurum Mobile 5G Smartphone 12GB/256GB Signature,Mobiles & Tablets,Smartphones,19106.89,22699.0,SUP-12,0.49,Active,7
+P0088,Aurum Mobile 10.6-inch Tablet Essential,Mobiles & Tablets,Tablets,22218.19,26599.0,SUP-11,0.33,Active,7
+P0089,Zephyr 8-inch Kids Tablet Lite,Mobiles & Tablets,Tablets,8580.4,9999.0,SUP-12,0.56,Active,7
+P0090,Aurum Mobile 5G Smartphone 12GB/256GB Lite,Mobiles & Tablets,Smartphones,10961.66,12699.0,SUP-11,0.49,Active,7
+P0091,Nexora 5G Smartphone 8GB/128GB Max,Mobiles & Tablets,Smartphones,10728.94,12099.0,SUP-12,0.4,Active,7
+P0092,Tulsi Home Hand Blender Neo,Home & Kitchen,Small Appliances,3052.47,5499.0,SUP-14,4.47,Active,7
+P0093,Tulsi Home Tawa Classic,Home & Kitchen,Cookware,3044.13,3699.0,SUP-14,1.55,Active,7
+P0094,Rasoi Craft Non-Stick Kadai Max,Home & Kitchen,Cookware,179.29,299.0,SUP-15,0.71,Active,7
+P0095,Tulsi Home Tawa Plus,Home & Kitchen,Cookware,2427.48,3999.0,SUP-15,3.53,Active,7
+P0096,Tulsi Home Cotton Bedsheet Set Plus,Home & Kitchen,Bed & Bath,2011.7,3799.0,SUP-15,1.63,Active,7
+P0097,Kitchenova Hand Blender Max,Home & Kitchen,Small Appliances,1132.64,2099.0,SUP-14,1.41,Active,7
+P0098,Ghar Essentials Bath Towel Pack Neo,Home & Kitchen,Bed & Bath,863.01,999.0,SUP-15,1.51,Discontinued,7
+P0099,Ghar Essentials Cotton Bedsheet Set Pro,Home & Kitchen,Bed & Bath,175.34,299.0,SUP-15,4.31,Active,7
+P0100,Rasoi Craft Electric Kettle Plus,Home & Kitchen,Small Appliances,533.63,999.0,SUP-14,3.97,Active,7
+P0101,Kitchenova Electric Kettle Essential,Home & Kitchen,Small Appliances,304.22,499.0,SUP-15,2.36,Active,7
+P0102,Rasoi Craft Steel Lunch Box Signature,Home & Kitchen,Storage,2171.93,3999.0,SUP-14,2.69,Discontinued,7
+P0103,Kitchenova Hand Blender Essential,Home & Kitchen,Small Appliances,1924.43,3699.0,SUP-15,4.37,Active,7
+P0104,Ghar Essentials Steel Lunch Box Classic,Home & Kitchen,Storage,1242.11,2299.0,SUP-14,3.26,Active,7
+P0105,Tulsi Home Hand Blender Signature,Home & Kitchen,Small Appliances,224.25,399.0,SUP-15,2.52,Active,7
+P0106,Kitchenova Electric Kettle Classic,Home & Kitchen,Small Appliances,416.74,699.0,SUP-14,3.15,Active,7
+P0107,Kitchenova Hand Blender Plus,Home & Kitchen,Small Appliances,304.37,599.0,SUP-15,2.12,Active,7
+P0108,Kitchenova Glass Jar Set Neo,Home & Kitchen,Storage,460.62,799.0,SUP-15,1.31,Active,7
+P0109,Tulsi Home Bath Towel Pack Lite,Home & Kitchen,Bed & Bath,1345.95,1599.0,SUP-14,1.72,Active,7
+P0110,Rasoi Craft Pressure Cooker 5L Lite,Home & Kitchen,Cookware,2678.06,3099.0,SUP-14,3.54,Active,7
+P0111,Glowveda Beard Trimmer Signature,Beauty & Personal Care,Grooming Devices,279.85,699.0,SUP-16,0.46,Active,7
+P0112,Kesari Botanics Vitamin C Serum Max,Beauty & Personal Care,Skincare,457.79,1099.0,SUP-16,0.39,Active,7
+P0113,Nila Naturals Vitamin C Serum Signature,Beauty & Personal Care,Skincare,181.76,399.0,SUP-16,0.37,Active,7
+P0114,Kesari Botanics Onion Hair Oil Classic,Beauty & Personal Care,Haircare,361.04,899.0,SUP-16,0.15,Active,7
+P0115,Nila Naturals Vitamin C Serum Lite,Beauty & Personal Care,Skincare,71.95,199.0,SUP-18,0.47,Active,7
+P0116,Nila Naturals SPF 50 Sunscreen Essential,Beauty & Personal Care,Skincare,839.85,1899.0,SUP-18,0.26,Active,7
+P0117,Glowveda Eau de Parfum 100ml Lite,Beauty & Personal Care,Fragrances,251.72,599.0,SUP-18,0.3,Active,7
+P0118,Glowveda Eau de Parfum 100ml Signature,Beauty & Personal Care,Fragrances,497.12,1199.0,SUP-16,0.17,Active,7
+P0119,Glowveda Hair Dryer Neo,Beauty & Personal Care,Grooming Devices,665.45,1799.0,SUP-16,0.37,Active,7
+P0120,Nila Naturals Vitamin C Serum Pro,Beauty & Personal Care,Skincare,635.6,1599.0,SUP-17,0.38,Discontinued,7
+P0121,Glowveda Beard Trimmer Neo,Beauty & Personal Care,Grooming Devices,351.06,799.0,SUP-18,0.42,Active,7
+P0122,Nila Naturals Beard Trimmer Lite,Beauty & Personal Care,Grooming Devices,729.41,1999.0,SUP-17,0.12,Active,7
+P0123,Kesari Botanics Vitamin C Serum Essential,Beauty & Personal Care,Skincare,453.18,1099.0,SUP-17,0.23,Active,7
+P0124,Glowveda Attar Roll-On Neo,Beauty & Personal Care,Fragrances,248.16,599.0,SUP-16,0.32,Active,7
+P0125,Nila Naturals Beard Trimmer Plus,Beauty & Personal Care,Grooming Devices,747.39,1799.0,SUP-17,0.44,Active,7
+P0126,Kesari Botanics Keratin Shampoo Neo,Beauty & Personal Care,Haircare,235.33,599.0,SUP-17,0.41,Active,7
+P0127,Glowveda SPF 50 Sunscreen Essential,Beauty & Personal Care,Skincare,301.69,699.0,SUP-17,0.2,Active,7
+P0128,Kesari Botanics SPF 50 Sunscreen Pro,Beauty & Personal Care,Skincare,203.77,299.0,SUP-17,0.12,Active,7
+P0129,Peakform Adjustable Dumbbells Neo,Sports & Fitness,Gym Equipment,1072.53,1799.0,SUP-19,4.51,Active,10
+P0130,Kridaa Bike Light Set Classic,Sports & Fitness,Cycling,1403.83,2599.0,SUP-19,5.4,Discontinued,10
+P0131,Sahyadri Sports Resistance Band Set Max,Sports & Fitness,Gym Equipment,250.27,299.0,SUP-19,0.52,Active,10
+P0132,Kridaa TPE Yoga Mat Signature,Sports & Fitness,Yoga & Mats,1129.4,1899.0,SUP-19,1.72,Active,10
+P0133,Kridaa Dry-Fit Track Pants Neo,Sports & Fitness,Activewear,535.93,599.0,SUP-20,0.43,Active,10
+P0134,Kridaa Cycling Helmet Neo,Sports & Fitness,Cycling,3686.05,6799.0,SUP-19,2.84,Active,10
+P0135,Sahyadri Sports Kettlebell 8kg Lite,Sports & Fitness,Gym Equipment,216.79,399.0,SUP-19,5.37,Discontinued,10
+P0136,Kridaa Yoga Block Set Pro,Sports & Fitness,Yoga & Mats,252.49,499.0,SUP-20,5.03,Active,10
+P0137,Kridaa Dry-Fit Track Pants Essential,Sports & Fitness,Activewear,177.69,299.0,SUP-19,5.58,Active,10
+P0138,Peakform TPE Yoga Mat Signature,Sports & Fitness,Yoga & Mats,665.94,799.0,SUP-20,3.18,Active,10
+P0139,Peakform Yoga Block Set Neo,Sports & Fitness,Yoga & Mats,1666.47,2999.0,SUP-19,4.01,Active,10
+P0140,Peakform Bike Light Set Essential,Sports & Fitness,Cycling,2633.31,4399.0,SUP-20,5.03,Active,10
+P0141,Kridaa Kettlebell 8kg Plus,Sports & Fitness,Gym Equipment,1356.19,2299.0,SUP-20,3.28,Discontinued,10
+P0142,Peakform Dry-Fit Track Pants Classic,Sports & Fitness,Activewear,526.68,999.0,SUP-19,4.48,Active,10
+P0143,Sahyadri Sports Training Shorts Lite,Sports & Fitness,Activewear,636.75,1199.0,SUP-19,5.89,Active,10
+P0144,Peakform TPE Yoga Mat Max,Sports & Fitness,Yoga & Mats,287.19,499.0,SUP-20,3.0,Active,10
+P0145,Kridaa Cycling Helmet Essential,Sports & Fitness,Cycling,2476.84,4299.0,SUP-19,2.48,Active,10
+P0146,Peakform Yoga Block Set Lite,Sports & Fitness,Yoga & Mats,923.07,1199.0,SUP-20,3.77,Discontinued,10
+P0147,Peakform Bike Light Set Plus,Sports & Fitness,Cycling,709.76,1199.0,SUP-20,2.4,Active,10
+P0148,Kalam & Co Fiction Paperback Essential,Books & Stationery,Books,121.21,199.0,SUP-22,0.58,Active,7
+P0149,Inkwell A5 Hardbound Notebook Classic,Books & Stationery,Notebooks & Planners,307.41,499.0,SUP-21,0.81,Active,7
+P0150,Kalam & Co Exam Prep Guide Neo,Books & Stationery,Books,176.54,299.0,SUP-23,0.4,Active,7
+P0151,Pustak Press Watercolour Set Signature,Books & Stationery,Art Supplies,386.83,699.0,SUP-21,0.46,Active,7
+P0152,Kalam & Co Sketch Pen Pack Max,Books & Stationery,Art Supplies,123.06,199.0,SUP-21,0.6,Active,7
+P0153,Inkwell Watercolour Set Essential,Books & Stationery,Art Supplies,650.3,699.0,SUP-21,0.71,Active,7
+P0154,Inkwell Fiction Paperback Signature,Books & Stationery,Books,630.18,999.0,SUP-22,0.84,Active,7
+P0155,Inkwell Watercolour Set Neo,Books & Stationery,Art Supplies,397.07,699.0,SUP-23,0.42,Active,7
+P0156,Pustak Press Watercolour Set Essential,Books & Stationery,Art Supplies,203.21,299.0,SUP-23,0.23,Active,7
+P0157,Kalam & Co Exam Prep Guide Pro,Books & Stationery,Books,125.98,199.0,SUP-23,0.63,Active,7
+P0158,Kalam & Co Sketch Pen Pack Plus,Books & Stationery,Art Supplies,171.53,299.0,SUP-23,0.52,Active,7
+P0159,Inkwell Business Bestseller Classic,Books & Stationery,Books,375.55,599.0,SUP-21,0.26,Active,7
+P0160,Inkwell Exam Prep Guide Essential,Books & Stationery,Books,189.05,199.0,SUP-23,0.86,Active,7
+P0161,Kalam & Co A5 Hardbound Notebook Pro,Books & Stationery,Notebooks & Planners,116.03,199.0,SUP-23,0.66,Active,7
+P0162,Kalam & Co Watercolour Set Plus,Books & Stationery,Art Supplies,569.24,899.0,SUP-23,0.9,Active,7
+P0163,Inkwell 2026 Daily Planner Lite,Books & Stationery,Notebooks & Planners,119.01,199.0,SUP-21,0.4,Active,7
+P0164,Pustak Press A5 Hardbound Notebook Max,Books & Stationery,Notebooks & Planners,371.87,599.0,SUP-21,0.67,Active,7
+P0165,Kalam & Co Watercolour Set Lite,Books & Stationery,Art Supplies,133.95,199.0,SUP-23,0.81,Active,7
+P0166,Inkwell Watercolour Set Lite,Books & Stationery,Art Supplies,775.85,1199.0,SUP-21,0.67,Active,7
+P0167,Pustak Press Business Bestseller Lite,Books & Stationery,Books,502.34,899.0,SUP-23,0.48,Discontinued,7
+P0168,Neem Tree Decor Blackout Curtain Pair Signature,Home Décor & Furnishing,Cushions & Curtains,191.9,399.0,SUP-25,1.95,Active,7
+P0169,Haveli Living Blackout Curtain Pair Essential,Home Décor & Furnishing,Cushions & Curtains,1570.38,3299.0,SUP-24,8.29,Active,7
+P0170,Haveli Living Rattan Floor Lamp Lite,Home Décor & Furnishing,Lighting,456.72,999.0,SUP-25,9.86,Active,7
+P0171,Jharokha Framed Canvas Print Neo,Home Décor & Furnishing,Wall Décor,305.17,599.0,SUP-24,2.06,Discontinued,7
+P0172,Jharokha Ceramic Table Lamp Signature,Home Décor & Furnishing,Lighting,331.95,599.0,SUP-25,5.5,Active,7
+P0173,Jharokha Brass Wall Mirror Lite,Home Décor & Furnishing,Wall Décor,2925.72,6199.0,SUP-24,2.99,Active,7
+P0174,Neem Tree Decor Sheesham Side Table Neo,Home Décor & Furnishing,Small Furniture,739.13,1599.0,SUP-24,1.48,Active,7
+P0175,Jharokha Folding Study Desk Classic,Home Décor & Furnishing,Small Furniture,617.87,1099.0,SUP-25,6.67,Active,7
+P0176,Haveli Living Brass Wall Mirror Classic,Home Décor & Furnishing,Wall Décor,272.49,499.0,SUP-24,4.6,Active,7
+P0177,Neem Tree Decor Brass Wall Mirror Max,Home Décor & Furnishing,Wall Décor,1853.86,2199.0,SUP-24,9.46,Active,7
+P0178,Jharokha Sheesham Side Table Essential,Home Décor & Furnishing,Small Furniture,2018.71,3699.0,SUP-25,11.37,Active,7
+P0179,Haveli Living Rattan Floor Lamp Neo,Home Décor & Furnishing,Lighting,389.45,799.0,SUP-25,7.66,Active,7
+P0180,Jharokha Rattan Floor Lamp Max,Home Décor & Furnishing,Lighting,484.59,999.0,SUP-24,10.87,Active,7
+P0181,Neem Tree Decor Block-Print Cushion Covers Neo,Home Décor & Furnishing,Cushions & Curtains,993.73,1999.0,SUP-24,0.54,Active,7
+P0182,Haveli Living Brass Wall Mirror Lite,Home Décor & Furnishing,Wall Décor,623.38,1099.0,SUP-25,11.51,Active,7
+P0183,Haveli Living Sheesham Side Table Classic,Home Décor & Furnishing,Small Furniture,296.19,599.0,SUP-24,10.05,Active,7

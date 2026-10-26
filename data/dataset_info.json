@@ -1,0 +1,24 @@
+{
+  "description": "Synthetic data for the fictional ShopSphere marketplace. Not real business data.",
+  "seed": 20251001,
+  "snapshot_date": "2026-10-20",
+  "period_start": "2025-10-01",
+  "period_end": "2026-09-30",
+  "generated_with": {
+    "python": "3.13.17",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5"
+  },
+  "rows": {
+    "products": 183,
+    "customers": 7500,
+    "orders": 21187,
+    "returns": 2867
+  },
+  "unit_return_rate": 0.127186,
+  "order_return_rate": 0.168181,
+  "injected_anomalies": [
+    "Footwear supplier SUP-07: faulty batch, higher quality/defect returns Jun 2026-Jul 2026",
+    "Uttar Pradesh: reverse-logistics courier cost +45% from Jun 2026"
+  ]
+}
